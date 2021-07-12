@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+header {
+    width:1920px;
+    height: 500px;
+    background-color: black;
+    font-size:24px;
+}
+
+main {
+    width:1920px;
+    height: 500px;
+    background-color:blue;
+    font-size:30px;
+    color:black;
+    font-weight: bold;
+}
+
+footer{
+    width:1920px;
+    height: 500px;
+    background-color: blueviolet;
+}
+
+h2 {
+    font-size:40px;
+    font-weight: bold;
+}
